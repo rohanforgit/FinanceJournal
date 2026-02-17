@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment structure
+.env
+
+# OS
+.DS_Store
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
