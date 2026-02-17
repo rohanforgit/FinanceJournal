@@ -1,0 +1,5 @@
+python-telegram-bot
+openai-whisper
+numpy
+pandas
+moddalk
